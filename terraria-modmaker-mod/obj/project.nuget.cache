@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbKLViPJspDwuKlMejdaIwABW5a8vvakH/tmuxQNEKrn9KNurH4bRreq/FZ6W3f9/kMkbWj1fYzW+JlBSl6Mdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaybo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TModMaker\\TModMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaybo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
