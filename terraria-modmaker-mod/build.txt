@@ -1,3 +1,3 @@
 displayName = TModMaker
-author = Adiroe, Alex Gale
+author = Jay Hilton, Alex Gale
 version = 0.1
